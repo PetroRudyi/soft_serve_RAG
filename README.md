@@ -6,6 +6,8 @@
 
 ## Load Data and VDB
 
+It is available here, along with all the data you need. VDB_ani_Images unzip in the core project directory.
+
 https://drive.google.com/drive/folders/1Kbt119Sb8jpXvOhk4LeJTXHXrdKunOQd?usp=sharing
 
 ## Instructions and Usage
