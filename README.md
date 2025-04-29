@@ -4,6 +4,10 @@
 
 ```pip install -r requirements.txt```
 
+## Load Data and VDB
+
+https://drive.google.com/drive/folders/1Kbt119Sb8jpXvOhk4LeJTXHXrdKunOQd?usp=sharing
+
 ## Instructions and Usage
 
 RAG uses vector database ChromaDB and integrates with LLM models by OpenAI. 
